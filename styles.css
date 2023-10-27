@@ -388,7 +388,7 @@ article{
 }
 
 .front {
-  animation: typewriter 9000ms ease forwards ;
+  animation: typewriter 6000ms ease forwards ;
   font-size:19px;
   font-weight:;
   color: coral;
